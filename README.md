@@ -13,3 +13,7 @@ https://explorer.test.taiko.xyz/address/0x7053af6475b2a11Bff65E697E349d66e6580d3
 ```solidity
 setAuthorizedSenders["0x0000000000000000000000000000000000000000"]
 ```
+
+4. Deployed ATestnetConsumerTaiko.sol
+
+???
