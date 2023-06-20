@@ -8,7 +8,7 @@ contract ATestnetConsumerTaiko is ChainlinkClient {
     using Chainlink for Chainlink.Request;
 
     address constant oracleTaiko = 0x7053af6475b2a11Bff65E697E349d66e6580d371;
-    string constant jobIdTaiko = "85e98ac0b49a488480ef9795e1b5c04f";
+    string constant jobIdTaiko = "df98b1c992ea4196a94adbd02711787f";
     uint256 public constant ORACLE_PAYMENT = (1 * LINK_DIVISIBILITY) / 10; // 0.1 * 10**18 (0.1 LINK)
     uint256 public currentPrice;
 
