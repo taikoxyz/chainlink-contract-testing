@@ -10,8 +10,10 @@ https://explorer.test.taiko.xyz/address/0x7053af6475b2a11Bff65E697E349d66e6580d3
 
 3. Added Chainlink node address to oracle list with a jobId specification setup with TOML file (see chainlink-taiko):
 
+⚠️0x6FC84537f182329edCB488480837BDf210AF440d is a local node (will need to migrate to a hosted node on AWS or Linode)⚠️
+
 ```solidity
-setAuthorizedSenders["0x0000000000000000000000000000000000000000"]
+setAuthorizedSenders["0x6FC84537f182329edCB488480837BDf210AF440d"]
 ```
 
 4. Deployed ATestnetConsumerTaiko.sol
