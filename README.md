@@ -32,7 +32,7 @@ https://explorer.test.taiko.xyz/tx/0x85ec9de9111557c9760489a4153dc436f64b797dc80
 
 https://explorer.test.taiko.xyz/tx/0xb1d0d9608b354acfbf6ec470203b042be52d786bb0dc275c3b9fa9efb88a6276
 
-Chainlink async response to update contract uint256 value:
+Chainlink node automatic async response to update contract uint256 value:
 
 https://explorer.test.taiko.xyz/tx/0x00400a50f1eb8ab1fd949a2546e343ec0f9e497c4eabc459e84591ba783e8a03
 
