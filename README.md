@@ -20,23 +20,23 @@ setAuthorizedSenders["0x6FC84537f182329edCB488480837BDf210AF440d"]
 
 ⚠️ jobId depends on the node and job type and is subject to change if a local node is reset like its address ⚠️
 
-https://explorer.test.taiko.xyz/address/0x04160C19738bB6429c0554fBdC11A96079D7297D
+https://explorer.test.taiko.xyz/address/0x1B6eE7086E155426916dd4dd3991281Cd48574B2
 
 5. Sent 1.00 LINK to ATestnetConsumerTaiko.sol
 
-https://explorer.test.taiko.xyz/tx/0x93380567f59d9b3f05d179167e5c1b12deb8c7480a5916c2eeb86599092543c5
+https://explorer.test.taiko.xyz/tx/0x85ec9de9111557c9760489a4153dc436f64b797dc80411e62df273dc40cc6c78
 
 6. Request ETH/USD:
 
 ⚠️ Make sure the Chainlink node has 1.0 ETH  to update uint256 value and contract has 1.0 LINK to pay the Chainlink node ⚠️
 
-https://explorer.test.taiko.xyz/tx/0x1193bba6534a1fd95f96fd1e17372bf2706886fb6781648c425f0c2449b13109
+https://explorer.test.taiko.xyz/tx/0xb1d0d9608b354acfbf6ec470203b042be52d786bb0dc275c3b9fa9efb88a6276
 
-7. Transaction for requesting ETH/USD did not revert, but returns 0 since Chainlink node is not setup yet to fulfill async request
+7. Transaction for requesting ETH/USD did not revert, but will return 0 if Chainlink node is not setup to fulfill async request
 ```
 currentPrice
 ``` 
 returns 
 ```
-uint256: 0
+uint256: 173376
 ``` 
