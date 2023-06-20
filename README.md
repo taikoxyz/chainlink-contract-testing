@@ -20,15 +20,15 @@ setAuthorizedSenders["0x6FC84537f182329edCB488480837BDf210AF440d"]
 
 ⚠️ jobId depends on the node and job type and is subject to change if a local node is reset like its address ⚠️
 
-https://explorer.test.taiko.xyz/address/0x7FeA70871E575CE3069aCCE0D25725ec0840dD8E
+https://explorer.test.taiko.xyz/address/0x04160C19738bB6429c0554fBdC11A96079D7297D
 
 5. Sent 1.00 LINK to ATestnetConsumerTaiko.sol
 
-https://explorer.test.taiko.xyz/tx/0x5b7fee3b187c859a685fa96669bdc44e78c48bc781966d4b6903fbe6eaed30e3
+https://explorer.test.taiko.xyz/tx/0x93380567f59d9b3f05d179167e5c1b12deb8c7480a5916c2eeb86599092543c5
 
 6. Request ETH/USD:
 
-https://explorer.test.taiko.xyz/tx/0xbffcd40a687277b1632b5271be90a0b5b0e101fe7a3d038d356ad93c12fbd53e
+????
 
 7. Transaction for requesting ETH/USD did not revert, but returns 0 since Chainlink node is not setup yet to fulfill async request
 ```
