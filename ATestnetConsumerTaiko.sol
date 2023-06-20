@@ -18,7 +18,7 @@ contract ATestnetConsumerTaiko is ChainlinkClient {
     );
 
     constructor() {
-        setChainlinkToken(0x326C977E6efc84E512bB9C30f76E30c160eD06FB);
+        setChainlinkToken(0xeC9a237864f7e78fd835Db717DB4e3d3c4254b11);
     }
 
     function requestEthereumPrice() public {
