@@ -26,4 +26,11 @@ https://explorer.test.taiko.xyz/tx/0x5b7fee3b187c859a685fa96669bdc44e78c48bc7819
 
 https://explorer.test.taiko.xyz/tx/0xbffcd40a687277b1632b5271be90a0b5b0e101fe7a3d038d356ad93c12fbd53e
 
-
+7. Transaction for requesting ETH/USD did not revert, but returns 0 since Chainlink node is not setup yet to fulfill async request
+```
+currentPrice
+``` 
+returns 
+```
+uint256: 0
+``` 
