@@ -28,6 +28,8 @@ https://explorer.test.taiko.xyz/tx/0x93380567f59d9b3f05d179167e5c1b12deb8c7480a5
 
 6. Request ETH/USD:
 
+⚠️ Make sure the Chainlink node has 1.0 ETH  to update uint256 value and contract has 1.0 LINK to pay the Chainlink node ⚠️
+
 ????
 
 7. Transaction for requesting ETH/USD did not revert, but returns 0 since Chainlink node is not setup yet to fulfill async request
