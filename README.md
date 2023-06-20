@@ -17,3 +17,11 @@ setAuthorizedSenders["0x0000000000000000000000000000000000000000"]
 4. Deployed ATestnetConsumerTaiko.sol
 
 https://explorer.test.taiko.xyz/address/0x9E1D1631B5d08B9Ab5f75e560434c59235ec7AA3
+
+5. Sent 1.00 LINK to ATestnetConsumerTaiko.sol
+
+https://explorer.test.taiko.xyz/tx/0xfb7d42feccb093f9e5313f5c7907dbcd8000988d30325c8e2cdfca9b025355b3
+
+6. Request ETH/USD:
+
+???
