@@ -20,7 +20,7 @@ https://explorer.test.taiko.xyz/address/0x7FeA70871E575CE3069aCCE0D25725ec0840dD
 
 5. Sent 1.00 LINK to ATestnetConsumerTaiko.sol
 
-???
+https://explorer.test.taiko.xyz/tx/0x5b7fee3b187c859a685fa96669bdc44e78c48bc781966d4b6903fbe6eaed30e3
 
 6. Request ETH/USD:
 
