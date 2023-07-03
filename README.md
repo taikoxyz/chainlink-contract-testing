@@ -20,7 +20,7 @@ setAuthorizedSenders["0x6FC84537f182329edCB488480837BDf210AF440d"]
 
 ⚠️ jobId depends on the node and job type and is subject to change if a local node is reset like its address ⚠️
 
-https://explorer.test.taiko.xyz/address/0x1B6eE7086E155426916dd4dd3991281Cd48574B2
+https://explorer.test.taiko.xyz/address/0x576E0bEf1a772B6da1B0a6BA50E2426E5eB38465
 
 5. Sent 1.00 LINK to ATestnetConsumerTaiko.sol
 
