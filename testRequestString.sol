@@ -38,7 +38,7 @@ contract testRequestString is ChainlinkClient {
 
     function fulfillEthereumPrice(
         bytes32 _requestId,
-        string memory _id
+        string calldata _id
     ) public recordChainlinkFulfillment(_requestId) {
         emit RequestEthereumPriceFulfilled(_requestId, _id);
         currentPrice = _id;
